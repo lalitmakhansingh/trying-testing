@@ -1,5 +1,5 @@
 import React from 'react'
-import Poster from "./components/Poster.jsx";
+import Poster from "./components/poster.jsx";
 
 
 const App = () => {
