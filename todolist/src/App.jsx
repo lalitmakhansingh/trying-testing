@@ -1,9 +1,11 @@
 import React from 'react'
+import Poster from "./components/Poster.jsx";
+
 
 const App = () => {
   return (
     <div>
-      hello guys
+      <Poster />
     </div>
   )
 }
